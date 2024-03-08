@@ -1,6 +1,5 @@
 # Nagpur Food GPT: Langchain-Based Chatbot
 
-![Nagpur Food GPT Logo](https://raw.githubusercontent.com/prasanna-muppidwar/Nagpur-Food-GPT/main/logo.png)
 
 Nagpur Food GPT is a Langchain-based chatbot focused on conversations related to Nagpur's culinary delights. Powered by GPT (Generative Pre-trained Transformer) technology, it provides engaging and informative discussions about Nagpur's food culture.
 
